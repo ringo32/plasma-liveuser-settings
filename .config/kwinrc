@@ -4,10 +4,6 @@ update_info=kwin.upd:replace-scalein-with-scale,kwin.upd:port-minimizeanimation-
 [Compositing]
 OpenGLIsUnsafe=false
 
-[Desktops]
-Id_1=3a09f7a5-4300-434c-90ef-e29217ca53d6
-Number=1
-Rows=1
 
 [TabBox]
 DesktopLayout=org.kde.breeze.desktop
