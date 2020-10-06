@@ -1,0 +1,11 @@
+[Desktop Entry]
+Categories=System
+Comment=EndeavourOS Welcome launcher
+Encoding=UTF-8
+Exec=sh /usr/share/endeavouros/scripts/welcome --enable
+Hidden=false
+Icon=/usr/share/endeavouros/EndeavourOS-icon.png
+Name=Welcome
+Type=Application
+X-GNOME-Autostart-enabled=true
+X-KDE-autostart-after=panel

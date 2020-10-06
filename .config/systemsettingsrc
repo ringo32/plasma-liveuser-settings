@@ -1,0 +1,12 @@
+[MainWindow]
+DVI-0 VGA-0 Height 1080=700
+DVI-0 VGA-0 Width 1920=1024
+DVI-0 VGA-0 XPosition=488
+DVI-0 VGA-0 YPosition=209
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABAAAAAK8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Open-with settings]
+CompletionMode=1
+History=welcome

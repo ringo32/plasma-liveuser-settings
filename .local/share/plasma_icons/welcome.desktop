@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Welcome
+Comment=EndeavourOS Welcome launcher
+Comment[sk]=Spúšťač privítania v systéme EndeavourOS
+# for autostart:
+#Exec=sh /usr/share/endeavouros/scripts/welcome --startdelay=3
+# for desktop launcher:
+Exec=sh /usr/share/endeavouros/scripts/welcome --enable
+Icon=/usr/share/endeavouros/EndeavourOS-icon.png
+# StartupNotify=false
+# Terminal=False
+Hidden=false
+X-GNOME-Autostart-enabled=true
+X-KDE-autostart-after=panel
+Categories=System
